@@ -17,8 +17,6 @@ export default defineNuxtConfig({
   // https://devtools.nuxt.com
   devtools: { enabled: true },
 
-  css: ['~/assets/css/main.css'],
-
   content: {
     build: {
       markdown: {
